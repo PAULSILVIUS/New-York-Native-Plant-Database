@@ -1,1 +1,1 @@
-# New-York-Native-Plant_database
+# New-York-Native-Plant-Database
